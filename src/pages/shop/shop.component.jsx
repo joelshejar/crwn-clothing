@@ -12,5 +12,3 @@ const ShopPage = ({ match }) => (
 );
 
 export default ShopPage;
-
-

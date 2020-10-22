@@ -13,6 +13,3 @@ const shopReducer = (state = INITIAL_STATE, action) => {
 
 export default shopReducer;
 
-
-
-
